@@ -1,1 +1,1 @@
-# glitch-test
+# Python Flask project
